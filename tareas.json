@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Cocinar brownies" ,
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Tomar 1 lt de agua",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Viajar a Rio Cuarto",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Llamar a Esteban",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Realizar checkpoint",
+        "estado": "terminada"
+    }
+]
